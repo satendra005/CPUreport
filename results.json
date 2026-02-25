@@ -1,0 +1,4388 @@
+[
+  {
+    "url": "https://home.aiph.ac.in/MEFGIHome.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 5 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_1.png",
+    "load_time": 1.77079176902771,
+    "visited_time": "2026-02-06 17:21:49",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://home.aiph.ac.in/ - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/OpenSans-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378694742
+      },
+      {
+        "level": "INFO",
+        "message": "https://home.aiph.ac.in/ 2446 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378694964
+      },
+      {
+        "level": "INFO",
+        "message": "https://home.aiph.ac.in/ 2446 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Regular.woff",
+        "source": "intervention",
+        "timestamp": 1770378694965
+      },
+      {
+        "level": "INFO",
+        "message": "https://home.aiph.ac.in/ 2446 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Linearicons-Free.woff2?w118d",
+        "source": "intervention",
+        "timestamp": 1770378694965
+      },
+      {
+        "level": "INFO",
+        "message": "https://home.aiph.ac.in/ 2446 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378694965
+      },
+      {
+        "level": "INFO",
+        "message": "https://home.aiph.ac.in/ 2446 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/muicon.ttf?7yjh46",
+        "source": "intervention",
+        "timestamp": 1770378694966
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378700597
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378700597
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378700598
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378708206
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378708210
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378708229
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/#",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_2.png",
+    "load_time": 1.279404878616333,
+    "visited_time": "2026-02-06 17:21:55",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/# 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378714460
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/# 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378714467
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/# 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770378714472
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/EmployeeProfile.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_3.png",
+    "load_time": 1.6068289279937744,
+    "visited_time": "2026-02-06 17:22:02",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/css/employee-personal-detail-style.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378720628
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/AdmissionJRSNewAdmission.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_4.png",
+    "load_time": 3.7874948978424072,
+    "visited_time": "2026-02-06 17:22:10",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://academic.aiph.ac.in/AdmissionJRSNewAdmission.aspx 47 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/OpenSans-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378727989
+      },
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/js/jquery-2.1.3.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378728219
+      },
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/js/jquery-2.1.3.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Regular.woff",
+        "source": "intervention",
+        "timestamp": 1770378728220
+      },
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/js/jquery-2.1.3.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378728220
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/CentralStreamwiseSemesterWiseSubject.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_5.png",
+    "load_time": 3.0230846405029297,
+    "visited_time": "2026-02-06 17:22:17",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/MEFAcademicDash/FacultyUI/FacultyEContentUP.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_6.png",
+    "load_time": 4.719444513320923,
+    "visited_time": "2026-02-06 17:22:27",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/MEFAcademicDash/FacultyUI/FacultyEContentUP.aspx - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://emp.aiph.ac.in/MEFAcademicDash/AcademicUI/font/CenturyGothic.woff",
+        "source": "intervention",
+        "timestamp": 1770378743799
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/MEFAcademicDash/FacultyUI/FacultyEContentUP.aspx - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://emp.aiph.ac.in/MEFAcademicDash/AcademicUI/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378743858
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/Attendence.aspx",
+    "issues": [
+      "Slow load: 6.91s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_7.png",
+    "load_time": 6.907248497009277,
+    "visited_time": "2026-02-06 17:22:38",
+    "js_logs": []
+  },
+  {
+    "url": "https://budget.aiph.ac.in/",
+    "issues": [
+      "Slow load: 5.29s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_8.png",
+    "load_time": 5.28870701789856,
+    "visited_time": "2026-02-06 17:22:48",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://budget.aiph.ac.in/ 1677 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://budget.aiph.ac.in/font/Montserrat-Regular.woff",
+        "source": "intervention",
+        "timestamp": 1770378765436
+      },
+      {
+        "level": "INFO",
+        "message": "https://budget.aiph.ac.in/ 1677 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://budget.aiph.ac.in/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378765436
+      },
+      {
+        "level": "INFO",
+        "message": "https://budget.aiph.ac.in/ - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://budget.aiph.ac.in/font/IndianRupee-Regular.woff",
+        "source": "intervention",
+        "timestamp": 1770378765441
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/YourDailyPunching.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_9.png",
+    "load_time": 1.1597275733947754,
+    "visited_time": "2026-02-06 17:22:54",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/js/jquery-2.1.3.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378772783
+      },
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/js/jquery-2.1.3.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Regular.woff",
+        "source": "intervention",
+        "timestamp": 1770378772787
+      },
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/js/jquery-2.1.3.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/OpenSans-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378772787
+      },
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/js/jquery-2.1.3.js 3 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378772787
+      }
+    ]
+  },
+  {
+    "url": "https://helpdesk.aiph.ac.in/",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_10.png",
+    "load_time": 2.9059672355651855,
+    "visited_time": "2026-02-06 17:23:01",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://helpdesk.aiph.ac.in/css/hr-style.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378779481
+      },
+      {
+        "level": "INFO",
+        "message": "https://helpdesk.aiph.ac.in/ - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Regular.woff",
+        "source": "intervention",
+        "timestamp": 1770378779811
+      },
+      {
+        "level": "INFO",
+        "message": "https://helpdesk.aiph.ac.in/ - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378779811
+      },
+      {
+        "level": "INFO",
+        "message": "https://helpdesk.aiph.ac.in/ - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378779811
+      },
+      {
+        "level": "INFO",
+        "message": "https://helpdesk.aiph.ac.in/ - Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/OpenSans-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378779815
+      }
+    ]
+  },
+  {
+    "url": "https://ss.aiph.ac.in/",
+    "issues": [
+      "Slow load: 8.25s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_11.png",
+    "load_time": 8.251685619354248,
+    "visited_time": "2026-02-06 17:23:14",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://cdn.aiph.ac.in/bootstrap-5/js/jquery-3-6-0.js 1 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/bootstrap-5/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378791771
+      }
+    ]
+  },
+  {
+    "url": "https://payroll.aiph.ac.in/",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_12.png",
+    "load_time": 4.1539106369018555,
+    "visited_time": "2026-02-06 17:23:22",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://payroll.aiph.ac.in/Login.aspx 149:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770378801173
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/inc/bootstrap-datepicker/bootstrap-datepicker.js 43:42 Uncaught bootstrap-datetimepicker requires jQuery to be loaded first",
+        "source": "javascript",
+        "timestamp": 1770378801175
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/js/jquery-ui.min_1.10.3.js 5:74 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770378801175
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/inc/custom-scroll-bar/jquery.mCustomScrollbar.concat.min.js 1:116 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770378801177
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/bootstrap-5/js/bootstrap-4-tab.js 156:2 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770378801178
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/js/design-common.js?2809190138 29:0 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770378801179
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamFormFillup.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_13.png",
+    "load_time": 1.8270807266235352,
+    "visited_time": "2026-02-06 17:23:29",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://payroll.aiph.ac.in/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378806717
+      },
+      {
+        "level": "INFO",
+        "message": "https://academic.aiph.ac.in/ExamFormFillup.aspx 530 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Regular.woff",
+        "source": "intervention",
+        "timestamp": 1770378807926
+      },
+      {
+        "level": "INFO",
+        "message": "https://academic.aiph.ac.in/ExamFormFillup.aspx 530 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/ionicons.ttf?v=2.0.1",
+        "source": "intervention",
+        "timestamp": 1770378807927
+      },
+      {
+        "level": "INFO",
+        "message": "https://academic.aiph.ac.in/ExamFormFillup.aspx 530 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/OpenSans-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378807927
+      },
+      {
+        "level": "INFO",
+        "message": "https://academic.aiph.ac.in/ExamFormFillup.aspx 530 Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://cdn.aiph.ac.in/font/Montserrat-Light.woff",
+        "source": "intervention",
+        "timestamp": 1770378807927
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamPaperSelection.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_14.png",
+    "load_time": 1.3460736274719238,
+    "visited_time": "2026-02-06 17:23:34",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamResultEntryQrCode.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_15.png",
+    "load_time": 1.0569689273834229,
+    "visited_time": "2026-02-06 17:23:40",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamSupervisor.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_16.png",
+    "load_time": 3.13000226020813,
+    "visited_time": "2026-02-06 17:23:47",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamResultEntry.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_17.png",
+    "load_time": 1.6619014739990234,
+    "visited_time": "2026-02-06 17:23:52",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamResultDelete.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_18.png",
+    "load_time": 1.1301443576812744,
+    "visited_time": "2026-02-06 17:23:57",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/FinalResultGenerate.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_19.png",
+    "load_time": 1.510286808013916,
+    "visited_time": "2026-02-06 17:24:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamAnswerSheetAllocation.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_20.png",
+    "load_time": 2.5283350944519043,
+    "visited_time": "2026-02-06 17:24:09",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/css/examanswersheet_allocation.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378847805
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamSupervisorAllocation.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_21.png",
+    "load_time": 0.40115880966186523,
+    "visited_time": "2026-02-06 17:24:14",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/EAssessmentResultGenerate.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_22.png",
+    "load_time": 0.5040678977966309,
+    "visited_time": "2026-02-06 17:24:19",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/css/bootstrap-grid-style.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770378858024
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770378858028
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.jquery.min.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770378858028
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StudentWiseBlockAllotment.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_23.png",
+    "load_time": 0.621121883392334,
+    "visited_time": "2026-02-06 17:24:25",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StreamWiseDeanMapping.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_24.png",
+    "load_time": 0.578594446182251,
+    "visited_time": "2026-02-06 17:24:29",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/SemesterDetailActiveInActive.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_25.png",
+    "load_time": 0.7886853218078613,
+    "visited_time": "2026-02-06 17:24:33",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/DirectorDashboard.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_26.png",
+    "load_time": 4.258442163467407,
+    "visited_time": "2026-02-06 17:24:42",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ManageMantorDashboard.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_27.png",
+    "load_time": 1.662806749343872,
+    "visited_time": "2026-02-06 17:24:48",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/DocumentVerifyRequest.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_28.png",
+    "load_time": 0.39524197578430176,
+    "visited_time": "2026-02-06 17:24:52",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/InternationalStudentData.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_29.png",
+    "load_time": 0.721606969833374,
+    "visited_time": "2026-02-06 17:24:57",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/PbasForAllUserReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_30.png",
+    "load_time": 0.17489957809448242,
+    "visited_time": "2026-02-06 17:25:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/SportsAnnouncement.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_31.png",
+    "load_time": 4.563964605331421,
+    "visited_time": "2026-02-06 17:25:12",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/css/datagrid.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378909966
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378910191
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378910193
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770378910374 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378910441
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/AnswerSheetAllocationDays.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_32.png",
+    "load_time": 0.2955965995788574,
+    "visited_time": "2026-02-06 17:25:17",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/SubjectTeachingSchemeUpdate.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_33.png",
+    "load_time": 0.3058133125305176,
+    "visited_time": "2026-02-06 17:25:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/PaperFormatUpload.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_34.png",
+    "load_time": 0.3268716335296631,
+    "visited_time": "2026-02-06 17:25:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/TimeTableRights.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_35.png",
+    "load_time": 0.7181384563446045,
+    "visited_time": "2026-02-06 17:25:33",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamBlockGenerate.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_36.png",
+    "load_time": 0.29696106910705566,
+    "visited_time": "2026-02-06 17:25:38",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamStudentBlock.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_37.png",
+    "load_time": 0.37099146842956543,
+    "visited_time": "2026-02-06 17:25:42",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/ExamStudentBlock.aspx 2435:12 Uncaught ReferenceError: reDesignRadioButton is not defined",
+        "source": "javascript",
+        "timestamp": 1770378941626
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StudentWiseTelegramRegistration.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_38.png",
+    "load_time": 0.24183273315429688,
+    "visited_time": "2026-02-06 17:25:48",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/general/EmployeeAllMappingYearWiseRpt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_39.png",
+    "load_time": 0.7381014823913574,
+    "visited_time": "2026-02-06 17:25:53",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/general/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378952072
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/general/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378952076
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/general/js/bootstrap-tooltip.js?_=1770378952173 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378952242
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/FitnessAssessmentApplications.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_40.png",
+    "load_time": 1.339820146560669,
+    "visited_time": "2026-02-06 17:25:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/InternationalNews.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_41.png",
+    "load_time": 0.5608806610107422,
+    "visited_time": "2026-02-06 17:26:03",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: exportpdf-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770378962604
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#exportpdf-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770378962604
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: cloudservices-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770378962604
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#cloudservices-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770378962604
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:170 \"[CKEDITOR] Error code: editor-plugin-conflict.\" Object",
+        "source": "console-api",
+        "timestamp": 1770378962605
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#editor-plugin-conflict\"",
+        "source": "console-api",
+        "timestamp": 1770378962605
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/FacultyFeedbackGeneration.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_42.png",
+    "load_time": 0.2311086654663086,
+    "visited_time": "2026-02-06 17:26:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/FacultyFeedbackReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_43.png",
+    "load_time": 0.3013577461242676,
+    "visited_time": "2026-02-06 17:26:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/General/PopupAdminPanel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_44.png",
+    "load_time": 2.1870336532592773,
+    "visited_time": "2026-02-06 17:26:18",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378977002
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378977002
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770378977212
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770378977145 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378977274
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamPolicies.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_45.png",
+    "load_time": 0.25342440605163574,
+    "visited_time": "2026-02-06 17:26:23",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/TransferTimeTable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_46.png",
+    "load_time": 0.38120126724243164,
+    "visited_time": "2026-02-06 17:26:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ResearchNews.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_47.png",
+    "load_time": 0.31560850143432617,
+    "visited_time": "2026-02-06 17:26:32",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: exportpdf-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770378991670
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#exportpdf-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770378991670
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: cloudservices-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770378991671
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#cloudservices-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770378991671
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:170 \"[CKEDITOR] Error code: editor-plugin-conflict.\" Object",
+        "source": "console-api",
+        "timestamp": 1770378991677
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.aiph.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#editor-plugin-conflict\"",
+        "source": "console-api",
+        "timestamp": 1770378991677
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamStudentNotAllow.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_48.png",
+    "load_time": 0.40038371086120605,
+    "visited_time": "2026-02-06 17:26:35",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/General/DocumentsUploads.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_49.png",
+    "load_time": 1.0482962131500244,
+    "visited_time": "2026-02-06 17:26:41",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378999551
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378999551
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378999551
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/Images/Indent/roundLoading.gif - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378999581
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/DocumentsUploads.aspx 2353:12 Uncaught ReferenceError: makeDangerous is not defined",
+        "source": "javascript",
+        "timestamp": 1770378999694
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770378999678 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770378999753
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ViewStudentPassword.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_50.png",
+    "load_time": 0.21270084381103516,
+    "visited_time": "2026-02-06 17:26:45",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/UFMReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_51.png",
+    "load_time": 0.24346065521240234,
+    "visited_time": "2026-02-06 17:26:49",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ClassWiseReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_52.png",
+    "load_time": 0.25353360176086426,
+    "visited_time": "2026-02-06 17:26:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/General/MagnusEventReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_53.png",
+    "load_time": 0.7948102951049805,
+    "visited_time": "2026-02-06 17:26:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamAdminPanel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_54.png",
+    "load_time": 0.30635547637939453,
+    "visited_time": "2026-02-06 17:27:02",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379021696
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379021696
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379021696
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamMarksEntry.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_55.png",
+    "load_time": 0.4200723171234131,
+    "visited_time": "2026-02-06 17:27:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamEmployeeName.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_56.png",
+    "load_time": 0.4230184555053711,
+    "visited_time": "2026-02-06 17:27:13",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Marketing/CRM.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_57.png",
+    "load_time": 1.8214781284332275,
+    "visited_time": "2026-02-06 17:27:19",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/VisitingFaculty.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_58.png",
+    "load_time": 1.1100010871887207,
+    "visited_time": "2026-02-06 17:27:24",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/VisitingFaculty.aspx 125 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379043148
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379043149
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379043163
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379043163
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379043439 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379043556
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/FacultyFreeSlot/FacultyFreeSlot.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_59.png",
+    "load_time": 0.45146751403808594,
+    "visited_time": "2026-02-06 17:27:30",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379049103
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in//LearningResources/EntryHomePending.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_60.png",
+    "load_time": 0.12125349044799805,
+    "visited_time": "2026-02-06 17:27:34",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in//LearningResources/EntryHomePending.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379053659
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StreamWiseHODMapping.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_61.png",
+    "load_time": 0.21530771255493164,
+    "visited_time": "2026-02-06 17:27:38",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StudentFieldIntership.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_62.png",
+    "load_time": 0.2613976001739502,
+    "visited_time": "2026-02-06 17:27:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamMarksOffline.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_63.png",
+    "load_time": 0.3113076686859131,
+    "visited_time": "2026-02-06 17:27:49",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamStudentCountUpcoming.aspx",
+    "issues": [
+      "Slow load: 6.44s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_64.png",
+    "load_time": 6.440528392791748,
+    "visited_time": "2026-02-06 17:28:00",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://academic.aiph.ac.in/ExamStudentCountUpcoming.aspx 1895 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770379074590
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamAnswerSheet.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_65.png",
+    "load_time": 0.32129597663879395,
+    "visited_time": "2026-02-06 17:28:03",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/FacultyFeedbackTop10.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_66.png",
+    "load_time": 0.8789088726043701,
+    "visited_time": "2026-02-06 17:28:08",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/FacultyFeedbackTop10.aspx 57 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379087160
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379087160
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379087185
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379087185
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379087330
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379087307 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379087389
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/MyDailyAndMasterTimeTable.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_67.png",
+    "load_time": 0.3039562702178955,
+    "visited_time": "2026-02-06 17:28:12",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/MyDailyAndMasterTimeTable.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379091468
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379091468
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379091505
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379091505
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379091523
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379091510 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379091562
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/TopicCoveredOnAttendanceNew.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_68.png",
+    "load_time": 0.4103870391845703,
+    "visited_time": "2026-02-06 17:28:17",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.aiph.ac.in/inc/bootstrap-datepicker/bootstrap-datepicker.css 5:0 Uncaught SyntaxError: Unexpected token '.'",
+        "source": "javascript",
+        "timestamp": 1770379096011
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/ByPassAttandance.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_69.png",
+    "load_time": 0.370206356048584,
+    "visited_time": "2026-02-06 17:28:21",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/ByPassAttandance.aspx 104 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379100806
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379100806
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379100818
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379100818
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379100893
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379100873 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379100951
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/TeachingSchemeApproval.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_70.png",
+    "load_time": 0.2237238883972168,
+    "visited_time": "2026-02-06 17:28:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ControlPages/FirstLectureWiseStudAtt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_71.png",
+    "load_time": 0.6412191390991211,
+    "visited_time": "2026-02-06 17:28:30",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379109539
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/ControlPages/FirstLectureWiseStudAtt.aspx 342 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379109539
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379109584
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379109587
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379109754
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/bootstrap-tooltip.js?_=1770379109743 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379109805
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ControlPages/FacultyWiseWorkingHours.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_72.png",
+    "load_time": 0.32274889945983887,
+    "visited_time": "2026-02-06 17:28:34",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/ControlPages/FacultyWiseWorkingHours.aspx 93 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379113715
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379113716
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379113740
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379113740
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379113752
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/bootstrap-tooltip.js?_=1770379113745 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379113801
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/CreateMastertimetable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_73.png",
+    "load_time": 0.34258556365966797,
+    "visited_time": "2026-02-06 17:28:39",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/Createtimetable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_74.png",
+    "load_time": 0.23874187469482422,
+    "visited_time": "2026-02-06 17:28:44",
+    "js_logs": []
+  },
+  {
+    "url": "https://placement.aiph.ac.in/TIPOCompanyCampusDrive.aspx",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_75.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 17:28:49",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/TIPOWEB/TopicWiseQuestion_lsrw.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_76.png",
+    "load_time": 0.6592090129852295,
+    "visited_time": "2026-02-06 17:28:53",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379131814
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/TopicWiseQuestion_lsrw.aspx 138 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379131814
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379131888
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379131888
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379132005
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/js/bootstrap-tooltip.js?_=1770379131996 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379132056
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/GDExamScheduleDM.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_77.png",
+    "load_time": 0.6429538726806641,
+    "visited_time": "2026-02-06 17:28:56",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/GDExamScheduleWPar.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_78.png",
+    "load_time": 0.6424202919006348,
+    "visited_time": "2026-02-06 17:29:01",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379140202
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379140202
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379140203
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/GDExamScheduleWPar.aspx 108 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379140681
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379140681
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379140684
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379140684
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/js/jquery-1.11.0.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379140717
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379140799
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379140787 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379140852
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/CreateExamCSWise.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_79.png",
+    "load_time": 0.30368852615356445,
+    "visited_time": "2026-02-06 17:29:06",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamPaperDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_80.png",
+    "load_time": 0.2007765769958496,
+    "visited_time": "2026-02-06 17:29:11",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/ExamPaperDetail.aspx 2021:0 Uncaught ReferenceError: popupheight is not defined",
+        "source": "javascript",
+        "timestamp": 1770379150449
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamAnswerKey.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_81.png",
+    "load_time": 0.8514754772186279,
+    "visited_time": "2026-02-06 17:29:17",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/SyllabusFacultyModulePlanP.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_82.png",
+    "load_time": 0.379500150680542,
+    "visited_time": "2026-02-06 17:29:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Syllabus/SyllabusFacultyModulePage.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_83.png",
+    "load_time": 0.43736958503723145,
+    "visited_time": "2026-02-06 17:29:26",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Syllabus/SyllabusFacultyModulePage.aspx 83 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379165553
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379165554
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Syllabus/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379165622
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Syllabus/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379165622
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379165641
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Syllabus/js/bootstrap-tooltip.js?_=1770379165630 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379165691
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/ClassLedgerP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_84.png",
+    "load_time": 0.33467936515808105,
+    "visited_time": "2026-02-06 17:29:30",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379169935
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379169946
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/ClassLedgerP.aspx 210 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379169947
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379169947
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379169983
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379169974 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379170033
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StudentTimeTableCheck.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_85.png",
+    "load_time": 0.3035128116607666,
+    "visited_time": "2026-02-06 17:29:34",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/ICardViolation.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_86.png",
+    "load_time": 0.30982232093811035,
+    "visited_time": "2026-02-06 17:29:39",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/General/MentorStudentGradeP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_87.png",
+    "load_time": 0.3791930675506592,
+    "visited_time": "2026-02-06 17:29:43",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379182376
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/staff/General/MentorStudentGradeP.aspx 1438 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379182376
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379182376
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379182376
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379182406
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770379182401 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379182457
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/HallTicket.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_88.png",
+    "load_time": 0.18331003189086914,
+    "visited_time": "2026-02-06 17:29:48",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/General/SubjectFacultyMappingP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_89.png",
+    "load_time": 0.37581706047058105,
+    "visited_time": "2026-02-06 17:29:52",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379191942
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379191943
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/staff/General/SubjectFacultyMappingP.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379191943
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379191957
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379192013
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770379192005 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379192059
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/TIPOWEB/Company/TIPOStudentResultData.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_90.png",
+    "load_time": 0.37903761863708496,
+    "visited_time": "2026-02-06 17:29:58",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379197182
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/Company/TIPOStudentResultData.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379197182
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/Company/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379197235
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/Company/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379197235
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379197274
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/TIPOWEB/Company/js/bootstrap-tooltip.js?_=1770379197261 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379197323
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/CoordinatorEntry.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_91.png",
+    "load_time": 0.6242077350616455,
+    "visited_time": "2026-02-06 17:30:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StudentMentoringDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_92.png",
+    "load_time": 0.5130095481872559,
+    "visited_time": "2026-02-06 17:30:07",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379205560
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379205560
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379205560
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/AcademicFile.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_93.png",
+    "load_time": 0.18831443786621094,
+    "visited_time": "2026-02-06 17:30:12",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/PopupAdminPanel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_94.png",
+    "load_time": 0.5134546756744385,
+    "visited_time": "2026-02-06 17:30:17",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/PopupAdminPanel.aspx 75 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379216267
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379216267
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379216306
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379216306
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379216442
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379216411 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379216495
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/BulkFeesReceipt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_95.png",
+    "load_time": 2.5395960807800293,
+    "visited_time": "2026-02-06 17:30:24",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/js/admin-design-common.js 108:18 Uncaught TypeError: $(...).datetimepicker is not a function",
+        "source": "javascript",
+        "timestamp": 1770379223427
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ViolationSummary.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_96.png",
+    "load_time": 0.19560813903808594,
+    "visited_time": "2026-02-06 17:30:29",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/InterviewEvaluation.aspx",
+    "issues": [
+      "Slow load: 12.29s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_97.png",
+    "load_time": 12.28600001335144,
+    "visited_time": "2026-02-06 17:30:46",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379235137
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/sweetalert/sweetalert.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770379240164
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/chosen/chosen.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770379240168
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./css/bootstrap-grid-style.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770379240168
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/sweetalert/sweetalert.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770379240178
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/chosen/chosen.jquery.min.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770379240178
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/bootstrap-datepicker/bootstrap-datepicker.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770379240178
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/bootstrap-datepicker/bootstrap-datepicker.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770379244818
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/InterviewEvaluation.aspx 2531:0 Uncaught ReferenceError: swal is not defined",
+        "source": "javascript",
+        "timestamp": 1770379244819
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/InterviewEvaluation.aspx 2322:32 Uncaught TypeError: $(...).chosen is not a function",
+        "source": "javascript",
+        "timestamp": 1770379244830
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/feesduedetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_98.png",
+    "load_time": 4.5833330154418945,
+    "visited_time": "2026-02-06 17:30:53",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/feesduedetails.aspx 180:20 Uncaught SyntaxError: Unexpected identifier 'SelectDesignSearch'",
+        "source": "javascript",
+        "timestamp": 1770379252103
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/SecurityIncidence.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_99.png",
+    "load_time": 2.5490074157714844,
+    "visited_time": "2026-02-06 17:30:59",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/Images/MarwadiLoadingN.gif - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379258111
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/LoginScreenImageDisplay.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_100.png",
+    "load_time": 0.5842804908752441,
+    "visited_time": "2026-02-06 17:31:04",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/general/AdminUserRights.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_101.png",
+    "load_time": 1.0514912605285645,
+    "visited_time": "2026-02-06 17:31:09",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/staff/general/AdminUserRights.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379268071
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379268071
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/general/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379268072
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/general/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379268072
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/general/js/bootstrap-tooltip.js?_=1770379268271 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379268332
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/PreferenceMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_102.png",
+    "load_time": 1.3717362880706787,
+    "visited_time": "2026-02-06 17:31:15",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.aiph.ac.in/PendingEmailandSMSMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_103.png",
+    "load_time": 1.0355756282806396,
+    "visited_time": "2026-02-06 17:31:20",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/General/AdminEscalationMatrix.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_104.png",
+    "load_time": 0.30324530601501465,
+    "visited_time": "2026-02-06 17:31:24",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/staff/General/AdminEscalationMatrix.aspx 1719 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379283361
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379283367
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379283367
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379283367
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770379283387 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379283449
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/AreaMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_105.png",
+    "load_time": 1.0483372211456299,
+    "visited_time": "2026-02-06 17:31:29",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/UserRights.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_106.png",
+    "load_time": 0.4766819477081299,
+    "visited_time": "2026-02-06 17:31:33",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/UserRights.aspx 252 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379292349
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379292349
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379292351
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379292351
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379292391 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379292448
+      }
+    ]
+  },
+  {
+    "url": "https://indent.aiph.ac.in/UserRrequest.aspx",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_107.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 17:31:36",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/staff/General/SalesInvoiceMain.aspx",
+    "issues": [
+      "Slow load: 7.23s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_108.png",
+    "load_time": 7.226519346237183,
+    "visited_time": "2026-02-06 17:31:48",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/staff/General/SalesInvoiceMain.aspx 184 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379304347
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379304348
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379305651
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379305651
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379306083
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770379305728 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379306084
+      }
+    ]
+  },
+  {
+    "url": "https://rights.aiph.ac.in/index.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_109.png",
+    "load_time": 4.695661544799805,
+    "visited_time": "2026-02-06 17:31:56",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ICT.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_110.png",
+    "load_time": 0.4365088939666748,
+    "visited_time": "2026-02-06 17:32:01",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379320001
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/ICT.aspx 135 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379320001
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770379320035
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379320042
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_111.png",
+    "load_time": 4.104328155517578,
+    "visited_time": "2026-02-06 17:32:09",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379325171
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379325171
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379325184
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379325185
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379325269
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379325249 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379325329
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx 1769 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770379325803
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/VisitorDetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_112.png",
+    "load_time": 0.37177228927612305,
+    "visited_time": "2026-02-06 17:32:13",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379332084
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/VisitorDetails.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379332084
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379332101
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379332101
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379332167
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379332150 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379332208
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/ExpenseDebitTo.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_113.png",
+    "load_time": 0.41344666481018066,
+    "visited_time": "2026-02-06 17:32:17",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379336400
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/ExpenseDebitTo.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379336400
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379336400
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379336453
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379336542
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379336485 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379336590
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ControlPages/TransportationFuel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_114.png",
+    "load_time": 0.39364123344421387,
+    "visited_time": "2026-02-06 17:32:22",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/TransportationFuel.aspx - Failed to load resource: the server responded with a status of 500 ()",
+        "source": "network",
+        "timestamp": 1770379340825
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ControlPages/TransportationAverage.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_115.png",
+    "load_time": 0.21403741836547852,
+    "visited_time": "2026-02-06 17:32:26",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/TransportationAverage.aspx - Failed to load resource: the server responded with a status of 500 ()",
+        "source": "network",
+        "timestamp": 1770379345197
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ControlPages/StudentLoggedInCount.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_116.png",
+    "load_time": 0.2933533191680908,
+    "visited_time": "2026-02-06 17:32:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/StudentLoggedInCount.aspx - Failed to load resource: the server responded with a status of 500 ()",
+        "source": "network",
+        "timestamp": 1770379350503
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ControlPages/CurrentContinueClasses.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_117.png",
+    "load_time": 0.34214282035827637,
+    "visited_time": "2026-02-06 17:32:37",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/ControlPages/CurrentContinueClasses.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379355977
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379355977
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379355977
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379355989
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379356067
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ControlPages/js/bootstrap-tooltip.js?_=1770379356049 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379356124
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/HouseKeeping/HKChangeEmployeeLocation.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_118.png",
+    "load_time": 0.4041917324066162,
+    "visited_time": "2026-02-06 17:32:42",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/HouseKeeping/HKChangeEmployeeLocation.aspx 97 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379360321
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379360322
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/HouseKeeping/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379360362
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/HouseKeeping/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379360387
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379360416
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/HouseKeeping/js/bootstrap-tooltip.js?_=1770379360393 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379360476
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Survey/EmployeeProfileRpt.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_119.png",
+    "load_time": 2.120105266571045,
+    "visited_time": "2026-02-06 17:32:49",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Survey/EmployeeProfileRpt.aspx 253 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770379366228
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/ShiftChangeApproval.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_120.png",
+    "load_time": 1.2388980388641357,
+    "visited_time": "2026-02-06 17:32:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/OffersUpload.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_121.png",
+    "load_time": 0.9172613620758057,
+    "visited_time": "2026-02-06 17:33:00",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/WebLoginHit.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_122.png",
+    "load_time": 0.22538089752197266,
+    "visited_time": "2026-02-06 17:33:05",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/OnlineApplicationPostMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_123.png",
+    "load_time": 0.4086339473724365,
+    "visited_time": "2026-02-06 17:33:09",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/EmpFamilyMembersDetailsInfo.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_124.png",
+    "load_time": 0.21851277351379395,
+    "visited_time": "2026-02-06 17:33:14",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/EmployeeMentoringDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_125.png",
+    "load_time": 0.2748596668243408,
+    "visited_time": "2026-02-06 17:33:19",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/EmployeeMentoringDetail.aspx 1894:80 Uncaught TypeError: Sys.WebForms.PageRequestManager.add_pageloaded is not a function",
+        "source": "javascript",
+        "timestamp": 1770379397331
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/ControlPages/ManPowerRequisition.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404",
+      "Redirected 1 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_126.png",
+    "load_time": 0.14739990234375,
+    "visited_time": "2026-02-06 17:33:23",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/ManPower/Default.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379402168
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/DTProvost.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_127.png",
+    "load_time": 0.6870594024658203,
+    "visited_time": "2026-02-06 17:33:28",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/EmpPLeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_128.png",
+    "load_time": 0.41982126235961914,
+    "visited_time": "2026-02-06 17:33:33",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/departmentalnotices.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_129.png",
+    "load_time": 0.23560357093811035,
+    "visited_time": "2026-02-06 17:33:38",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/LeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_130.png",
+    "load_time": 0.5160846710205078,
+    "visited_time": "2026-02-06 17:33:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/LeaveApproval.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_131.png",
+    "load_time": 0.35442256927490234,
+    "visited_time": "2026-02-06 17:33:49",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/images/22F.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379427944
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/MEFHolidays.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_132.png",
+    "load_time": 0.19432663917541504,
+    "visited_time": "2026-02-06 17:33:53",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/FacultyResearchProfile.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_133.png",
+    "load_time": 0.6526098251342773,
+    "visited_time": "2026-02-06 17:33:58",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379436712
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379436723
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/AIPHHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379436723
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/PeonList.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_134.png",
+    "load_time": 0.24525046348571777,
+    "visited_time": "2026-02-06 17:34:03",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/ChangePassword.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_135.png",
+    "load_time": 0.2363889217376709,
+    "visited_time": "2026-02-06 17:34:08",
+    "js_logs": [
+      {
+        "level": "DEBUG",
+        "message": "https://login.aiph.ac.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=WsqoYM%2BSBhE%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770379446871
+      },
+      {
+        "level": "DEBUG",
+        "message": "https://login.aiph.ac.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=WsqoYM%2BSBhE%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770379446871
+      },
+      {
+        "level": "DEBUG",
+        "message": "https://login.aiph.ac.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=WsqoYM%2BSBhE%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770379446871
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/EmployeeCircularUpload.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_136.png",
+    "load_time": 0.20598816871643066,
+    "visited_time": "2026-02-06 17:34:13",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/EmployeeCircularUpload.aspx 1863:12 Uncaught ReferenceError: setCalenderDateTime is not defined",
+        "source": "javascript",
+        "timestamp": 1770379451799
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/PurchaseOrderApproval.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_137.png",
+    "load_time": 0.7217793464660645,
+    "visited_time": "2026-02-06 17:34:17",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379455703
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/images/employee.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379455705
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/css/paging.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379455720
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/PurchaseOrderApproval.aspx 56:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770379455755
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/bootstrap-select.js 1816:3 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770379455766
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/PurchaseOrderApproval.aspx 367:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770379455769
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770379455795
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Indent/Indents.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_138.png",
+    "load_time": 0.5874998569488525,
+    "visited_time": "2026-02-06 17:34:22",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379460770
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Indent/Indents.aspx 60:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770379460844
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Indent/Indents.aspx 880:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770379460863
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Indent/Transaction.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_139.png",
+    "load_time": 2.5902388095855713,
+    "visited_time": "2026-02-06 17:34:28",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379466604
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Indent/Transaction.aspx 58:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770379466685
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770379466911
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Indent/Approval.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_140.png",
+    "load_time": 1.71095871925354,
+    "visited_time": "2026-02-06 17:34:33",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379472188
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Indent/Approval.aspx 58:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770379472189
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770379472279
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ClassSummaryReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_141.png",
+    "load_time": 0.5423474311828613,
+    "visited_time": "2026-02-06 17:34:38",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/ClassSummaryReport.aspx 2006:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770379476547
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/StudentMentorReport.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_142.png",
+    "load_time": 0.3529191017150879,
+    "visited_time": "2026-02-06 17:34:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/StudentResultExcel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_143.png",
+    "load_time": 0.3148055076599121,
+    "visited_time": "2026-02-06 17:34:48",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/StudentResultExcel.aspx 202 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379486986
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379486986
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379487000
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379487000
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379487019 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379487076
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/SubjectFacultyMappingReportNew.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_144.png",
+    "load_time": 0.2085132598876953,
+    "visited_time": "2026-02-06 17:34:52",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/FacultyLoadReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_145.png",
+    "load_time": 0.18413186073303223,
+    "visited_time": "2026-02-06 17:34:55",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ResultMarksReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_146.png",
+    "load_time": 0.26480531692504883,
+    "visited_time": "2026-02-06 17:35:00",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/SyllabusPercentReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_147.png",
+    "load_time": 0.4448065757751465,
+    "visited_time": "2026-02-06 17:35:04",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/SyllabusPercentReport.aspx 208 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379503386
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379503386
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379503387
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379503387
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379503567 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379503626
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/CentralStreamWiseReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_148.png",
+    "load_time": 0.3284022808074951,
+    "visited_time": "2026-02-06 17:35:09",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/CentralStreamWiseReport.aspx 1699 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379508240
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379508240
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379508241
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379508241
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379508264 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379508332
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/AttendanceReport.aspx?RType=m4xPZcEkEjPnM+NOqUCVhA==",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_149.png",
+    "load_time": 0.21926188468933105,
+    "visited_time": "2026-02-06 17:35:13",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/RubricsPlanningReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_150.png",
+    "load_time": 0.4210340976715088,
+    "visited_time": "2026-02-06 17:35:19",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/RubricsPlanningReport.aspx 348 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379517684
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379517685
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379517685
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379517685
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379517844 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379517900
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/COAttainment.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_151.png",
+    "load_time": 0.2947854995727539,
+    "visited_time": "2026-02-06 17:35:24",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/COAttainment.aspx 2041:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770379522675
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/COAttainment.aspx?RType=C7",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_152.png",
+    "load_time": 0.1965322494506836,
+    "visited_time": "2026-02-06 17:35:29",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/COAttainment.aspx?RType=C7 1936:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770379528359
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/AcademicCalendar.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_153.png",
+    "load_time": 0.20462298393249512,
+    "visited_time": "2026-02-06 17:35:34",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/AcademicCalendar.aspx 1984:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770379532845
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ResultPassingCommittee.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_154.png",
+    "load_time": 0.22325873374938965,
+    "visited_time": "2026-02-06 17:35:39",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/ResultPassingCommittee.aspx 2030:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770379538201
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamPaperGenerateAssessed.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_155.png",
+    "load_time": 0.18759775161743164,
+    "visited_time": "2026-02-06 17:35:44",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamTypeWiseResult.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_156.png",
+    "load_time": 0.2190108299255371,
+    "visited_time": "2026-02-06 17:35:49",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/StudentResultAnalysisReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_157.png",
+    "load_time": 0.45686769485473633,
+    "visited_time": "2026-02-06 17:35:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/InwardOutwardSearchReport.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_158.png",
+    "load_time": 0.33011913299560547,
+    "visited_time": "2026-02-06 17:35:59",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/TimeTableReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_159.png",
+    "load_time": 0.3275258541107178,
+    "visited_time": "2026-02-06 17:36:03",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/TimeTableReport.aspx 561 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379562413
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379562413
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379562413
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379562413
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379562447 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379562507
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/SocialWalefareCommitteeAudit.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_160.png",
+    "load_time": 0.3226814270019531,
+    "visited_time": "2026-02-06 17:36:09",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/SubjectNotAllocatedReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_161.png",
+    "load_time": 1.4168813228607178,
+    "visited_time": "2026-02-06 17:36:14",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379572220
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379572233
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/SubjectNotAllocatedReport.aspx 1713 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379572233
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379572233
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379572253 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379572306
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/SubjectNotAllocatedReport.aspx 1748 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770379572530
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/ByPassAttendanceReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_162.png",
+    "load_time": 0.23105525970458984,
+    "visited_time": "2026-02-06 17:36:18",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379577543
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/ByPassAttendanceReport.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379577543
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379577543
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379577543
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379577564 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379577619
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/MasterTimeTableReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_163.png",
+    "load_time": 0.4790072441101074,
+    "visited_time": "2026-02-06 17:36:24",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379583251
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/MasterTimeTableReport.aspx 1617 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379583251
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379583251
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379583251
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379583275 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379583334
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/ExamPaperAnswersheetDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_164.png",
+    "load_time": 0.22522521018981934,
+    "visited_time": "2026-02-06 17:36:28",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/Staff/General/ExamPaperAnswersheetDetail.aspx 1685 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379587186
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379587186
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379587186
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379587186
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379587209
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770379587204 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379587260
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/DailyTimeTable.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_165.png",
+    "load_time": 0.4056222438812256,
+    "visited_time": "2026-02-06 17:36:33",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.aiph.ac.in/DailyTimeTable.aspx 2299:6 Uncaught SyntaxError: missing ) after argument list",
+        "source": "javascript",
+        "timestamp": 1770379591037
+      }
+    ]
+  },
+  {
+    "url": "https://academic.aiph.ac.in/AttendanceReports.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_166.png",
+    "load_time": 0.18776559829711914,
+    "visited_time": "2026-02-06 17:36:38",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ExamAnswerSheetMarksQuestionWise.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_167.png",
+    "load_time": 0.18596243858337402,
+    "visited_time": "2026-02-06 17:36:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/FeesStatusReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_168.png",
+    "load_time": 0.20503735542297363,
+    "visited_time": "2026-02-06 17:36:47",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/ObeMappingStatusReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_169.png",
+    "load_time": 0.17619943618774414,
+    "visited_time": "2026-02-06 17:36:50",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/AttendanceReport.aspx?RType=6LapKAU2RX9uHv8SzmO0aNXz42U3LxTp",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_170.png",
+    "load_time": 0.4352266788482666,
+    "visited_time": "2026-02-06 17:36:55",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/AttendanceReport.aspx?RType=vsWjtTLbK9Ypo2ktSxJVPg==",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_171.png",
+    "load_time": 0.21281957626342773,
+    "visited_time": "2026-02-06 17:36:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/Staff/General/AttendanceReport.aspx?RType=TLC5oQIJ3mh3DVIUFJ5Jfb6mnD/QPqwG",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_172.png",
+    "load_time": 0.2335813045501709,
+    "visited_time": "2026-02-06 17:37:03",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.aiph.ac.in/AttendanceReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_173.png",
+    "load_time": 0.420910120010376,
+    "visited_time": "2026-02-06 17:37:08",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.aiph.ac.in/KHM/EmpWiseWorkingHours.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_174.png",
+    "load_time": 0.44665074348449707,
+    "visited_time": "2026-02-06 17:37:13",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379631572
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/KHM/EmpWiseWorkingHours.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379631572
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379631637
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379631637
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379631664
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/bootstrap-tooltip.js?_=1770379631651 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379631722
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/KHM/FacultyWorstPerformance.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_175.png",
+    "load_time": 0.332949161529541,
+    "visited_time": "2026-02-06 17:37:18",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379637077
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379637078
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/KHM/FacultyWorstPerformance.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379637078
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379637101
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379637141
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/bootstrap-tooltip.js?_=1770379637129 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379637196
+      }
+    ]
+  },
+  {
+    "url": "https://emp.aiph.ac.in/KHM/TechnicalAttendanceClasswise.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_176.png",
+    "load_time": 0.36518001556396484,
+    "visited_time": "2026-02-06 17:37:23",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379641513
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.aiph.ac.in/KHM/TechnicalAttendanceClasswise.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770379641513
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.aiph.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770379641514
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379641531
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770379641583
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.aiph.ac.in/KHM/js/bootstrap-tooltip.js?_=1770379641570 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379641635
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/Canteen/ItemMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_177.png",
+    "load_time": 0.47789478302001953,
+    "visited_time": "2026-02-06 17:37:27",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379646368
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/Canteen/ApproveAuthority.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_178.png",
+    "load_time": 0.3984677791595459,
+    "visited_time": "2026-02-06 17:37:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379650914
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/Canteen/ItemMasterSlab.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_179.png",
+    "load_time": 0.533576488494873,
+    "visited_time": "2026-02-06 17:37:36",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379655000
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/Canteen/PurposeMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_180.png",
+    "load_time": 0.17656779289245605,
+    "visited_time": "2026-02-06 17:37:40",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379659777
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/Canteen/LunchRequest.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_181.png",
+    "load_time": 0.6412551403045654,
+    "visited_time": "2026-02-06 17:37:44",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379663738
+      }
+    ]
+  },
+  {
+    "url": "https://admin.aiph.ac.in/Canteen/AllCanteenReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_182.png",
+    "load_time": 0.17467355728149414,
+    "visited_time": "2026-02-06 17:37:49",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.aiph.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379668331
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/#info",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_183.png",
+    "load_time": 0.4299943447113037,
+    "visited_time": "2026-02-06 17:37:54",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/#info 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379673631
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/#info 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379673631
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/#info 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770379673631
+      }
+    ]
+  },
+  {
+    "url": "https://home.aiph.ac.in/#custom",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_184.png",
+    "load_time": 0.007886886596679688,
+    "visited_time": "2026-02-06 17:37:59",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/#dvELeave",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_185.png",
+    "load_time": 0.009502649307250977,
+    "visited_time": "2026-02-06 17:38:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/#divcirculars",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_186.png",
+    "load_time": 0.009654760360717773,
+    "visited_time": "2026-02-06 17:38:05",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/#divoffers",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_187.png",
+    "load_time": 0.013487100601196289,
+    "visited_time": "2026-02-06 17:38:09",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.aiph.ac.in/HRPDFS/Transportpolicy-2022.pdf",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading"
+    ],
+    "screenshot": "screenshots\\failed\\page_188.png",
+    "load_time": 0.07475018501281738,
+    "visited_time": "2026-02-06 17:38:13",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.aiph.ac.in/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770379693083
+      }
+    ]
+  }
+]
